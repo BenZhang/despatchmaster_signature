@@ -1,0 +1,2 @@
+require 'despatchmaster_signature'
+
